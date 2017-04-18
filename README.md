@@ -1,2 +1,80 @@
 # Login-Form
 Simple Login Form
+<!--
+	Author: Rajeepsubedi
+	Author URL: http://rajeepsubedi.com
+<!DOCTYPE html>
+<html lang="en">
+<!-- Head -->
+<head>
+
+<title>Login Form | Rajeep subedi</title>
+
+<!-- Meta-Tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Techno Login Form Responsive, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates, Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design">
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //Meta-Tags -->
+
+<!-- Custom-Style-Sheet -->
+<!-- Index-Page-CSS --> <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<!-- //Custom-Style-Sheet -->
+
+<!-- Fonts -->
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" type="text/css" media="all">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700"			   type="text/css" media="all">
+<!-- //Fonts -->
+
+</head>
+<!-- //Head -->
+
+
+
+<!-- Body -->
+<body>
+
+	<h1>LOGIN FORM</h1>
+
+	<div class="containerw3layouts-agileits">
+
+		<div class="w3imageaits">
+			<img src="images/web.jpg" alt="">
+		</div>
+
+		<div class="aitsloginwthree w3layouts agileits">
+			<h2>Log In to enter</h2>
+			<form action="#" method="post">
+				<input type="text" Name="Userame" placeholder="Username" required="">
+				<input type="password" Name="Password" placeholder="Password" required="">
+				<ul class="tick w3layouts agileinfo">
+					<li>
+						<input type="checkbox" id="brand1" value="">
+						<label for="brand1"><span></span>Remember me</label>
+					</li>
+					<li>
+						<a href="#">Forgot Password?</a>
+					</li>
+				</ul>
+				<div class="send-button wthree agileits">
+					<input type="submit" value="Sign up">
+				</div>
+			</form>
+		</div>
+
+		<div class="clear"></div>
+
+	</div>
+
+	<div class="w3lsfooteragileits">
+		<p> &copy; 2017 Login Form. Design by <a href="https://www.facebook.com/flameboys" target="=_blank">Rajeep Subedi</a></p>
+	</div>
+
+
+
+</body>
+<!-- //Body -->
+
+
+
+</html>
